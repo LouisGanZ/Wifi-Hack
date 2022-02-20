@@ -15,7 +15,7 @@
 - ```$ pkg install tsu```
 - ```$ git clone https://github.com/MD-XLouis/Wifi-Hack```
 - ```$ cd Wifi-Hack chmod```
-- ```$ wifi hacker.sh +x wifi.sh```
-- ```$ sh wifi.sh```
+- ```$ Wifi-Hack hacker.sh +x Wifi-Hack.sh```
+- ```$ sh Wifi-Hack.sh```
 
 **Thank you**
